@@ -14,7 +14,7 @@
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&theme=graywhite&show_icons=true)
 
-![Jaouher's github stats](https://github-readme-repo-cards.vercel.app/api?username=jaouherbejaoui&theme=dark&show_icons=true)
+![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&theme=default_repocard&show_icons=true)
 
 
 ###### 💾 EOF
