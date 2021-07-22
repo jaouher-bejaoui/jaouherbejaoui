@@ -11,6 +11,5 @@
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui?exclude_repo=Formation-ContentProvider&theme=graywhite&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaouherbejaoui&hide=java)](https://github.com/jaouherbejaoui)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaouherbejaoui&exclude_repo=Formation-ContentProvider)](https://github.com/jaouherbejaoui)
 ###### 💾 EOF
