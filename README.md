@@ -6,7 +6,7 @@
 
 - :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: XCode
-- :email: `jaouher.bej@gmail.com` .
+- :email: `jaouher.bej@gmail.com`
 
 <br>
 <a href="https://www.linkedin.com/in/jaouher-bejaoui/"> 
