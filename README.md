@@ -7,6 +7,7 @@
 - :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: XCode
 - :email: `jaouher.bej@gmail.com` .
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 - ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&hide=stars&theme=graywhite&show_icons=true)
