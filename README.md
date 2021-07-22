@@ -13,7 +13,7 @@
 <img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" />
 
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-linkedin-psi.vercel.app/education?username=jaouher-bejaoui" width="450" />
 <img src="https://github-readme-linkedin-psi.vercel.app/languages?username=jaouher-bejaoui" width="400"/>
 </div>
