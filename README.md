@@ -10,10 +10,10 @@
 
 <br>
 <img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" width="730" height="100" />
- <img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" width="450" height="700" />
+<img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" width="450" />
 <div align="left">
-<img src="https://github-readme-linkedin-psi.vercel.app/education?username=jaouher-bejaoui" width="450" height="150" />
-<img src="https://github-readme-linkedin-psi.vercel.app/languages?username=jaouher-bejaoui" width="400" height="150" />
+<img src="https://github-readme-linkedin-psi.vercel.app/education?username=jaouher-bejaoui" width="450" />
+<img src="https://github-readme-linkedin-psi.vercel.app/languages?username=jaouher-bejaoui" width="400"/>
 </div>
 <br>
 
