@@ -6,7 +6,7 @@
 
 - :hammer_and_pick: Swift / ~~Markdown~~. Qt.
 - :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
-- :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `jaouher.bej@gmail.com` .
+- :email: `jaouher.bej@gmail.com` .
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&hide=stars&theme=graywhite&show_icons=true)
