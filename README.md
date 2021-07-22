@@ -7,10 +7,18 @@
 - :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: XCode
 - :email: `jaouher.bej@gmail.com` .
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-
-<img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui" />
+<br>
+<img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" width="730" height="100" />
+<div align="center">
+  <img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" width="450" height="700" />
+  <img src="https://github-readme-linkedin-psi.vercel.app/skills?username=jaouher-bejaoui" width="400" height="700" />
+</div>
+<div align="center">
+<img src="https://github-readme-linkedin-psi.vercel.app/education?username=jaouher-bejaoui" width="450" height="150" />
+<img src="https://github-readme-linkedin-psi.vercel.app/languages?username=jaouher-bejaoui" width="400" height="150" />
+</div>
+<br>
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&hide=stars&theme=graywhite&show_icons=true)
 
