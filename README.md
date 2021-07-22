@@ -4,7 +4,7 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: Swift. / RxSwift. / CocoaPods.
+- :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
 - :email: `jaouher.bej@gmail.com` .
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
