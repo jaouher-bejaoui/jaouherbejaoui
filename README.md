@@ -10,7 +10,7 @@
 - :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
-![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui?exclude_repo=Ubo-Android&theme=graywhite&show_icons=true)
+![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui?exclude_repo=Threads-Formations&theme=graywhite&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaouherbejaoui&hide=java)](https://github.com/jaouherbejaoui)
 
