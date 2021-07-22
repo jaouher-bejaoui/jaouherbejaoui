@@ -8,6 +8,7 @@
 - :triangular_ruler: Git, Scrum, Jira...
 - :pencil2: XCode
 - :earth_africa: French, English, Arabic
+- :office: Orange
 - :email: `jaouher.bej@gmail.com`
 <a href="https://www.linkedin.com/in/jaouher-bejaoui/"> 
   <img src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_960_720.png" height=100 widht=700/> 
