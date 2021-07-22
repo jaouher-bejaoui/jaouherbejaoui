@@ -10,7 +10,7 @@
 
 <br>
 <a href="https://www.linkedin.com/in/jaouher-bejaoui/"> 
-  <img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" height=100/> 
+  <img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" height=100 widht=700/> 
 </a>
 <img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" /><br>
 
