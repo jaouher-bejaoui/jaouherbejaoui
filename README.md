@@ -9,7 +9,7 @@
 - :email: `jaouher.bej@gmail.com` .
 
 <br>
-<a href="https://github.com/jaouherbejaoui"><img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" width="730" /></a>
+<a href="https://www.linkedin.com/in/jaouher-bejaoui/"><img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" /></a>
 <img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" width="450" />
 <div align="left">
 <img src="https://github-readme-linkedin-psi.vercel.app/education?username=jaouher-bejaoui" width="450" />
