@@ -4,7 +4,7 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: iOS : <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />/ RxSwift/ RxCocoa
+- :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: XCode
 - :email: `jaouher.bej@gmail.com` .
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
