@@ -4,11 +4,9 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
+- :hammer_and_pick: iOS : Swift, RxSwift, RxCocoa, Core Data, CoreLocation, MapKit, Storyboard, Cocoa Touch
 - :pencil2: XCode
 - :email: `jaouher.bej@gmail.com`
-
-<br>
 <a href="https://www.linkedin.com/in/jaouher-bejaoui/"> 
   <img src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_960_720.png" height=100 widht=700/> 
 </a>
