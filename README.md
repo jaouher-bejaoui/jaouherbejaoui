@@ -7,7 +7,7 @@
 - :hammer_and_pick: iOS : Swift/ RxSwift/ RxCocoa
 - :pencil2: XCode
 - :email: `jaouher.bej@gmail.com` .
-- :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
+- :linkedin: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&hide=stars&theme=graywhite&show_icons=true)
 
