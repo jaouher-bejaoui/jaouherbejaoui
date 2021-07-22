@@ -2,7 +2,7 @@
 
 <a href="https://github.com/jaouherbejaoui"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a>
 
-🎊 Hello world!
+Hello world!
 
 - :hammer_and_pick: <b>iOS</b> : Swift, RxSwift, RxCocoa, Core Data, CoreLocation, MapKit, Storyboard, Cocoa Touch...
 - :triangular_ruler: Git, Scrum, Jira...
