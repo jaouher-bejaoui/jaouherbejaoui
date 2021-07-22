@@ -10,9 +10,9 @@
 
 <br>
 <a href="https://www.linkedin.com/in/jaouher-bejaoui/"> 
-  <img src="https://github-readme-linkedin-psi.vercel.app/user?username=jaouher-bejaoui" height=100 widht=700/> 
+  <img src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_960_720.png" height=100 widht=700/> 
 </a>
-<img src="https://github-readme-linkedin-psi.vercel.app/experience?username=jaouher-bejaoui&limit=6" /><br>
+
 
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&hide=stars&theme=graywhite&show_icons=true)
 
