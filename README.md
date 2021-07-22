@@ -15,4 +15,7 @@
 ![Jaouher's github stats](https://github-readme-stats.vercel.app/api?username=jaouherbejaoui&theme=graywhite&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaouherbejaoui&hide=java)](https://github.com/jaouherbejaoui)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaouherbejaoui)](https://github.com/jaouherbejaoui/)
+
 ###### 💾 EOF
